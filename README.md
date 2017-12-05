@@ -1,2 +1,7 @@
 # UAS_Cloud_Vagrant
-UAS_Cloud_Vagrant(Rickhen Hermawan &amp; Steven Albert)
+This contains the Vagrantfile and playbooks used to make a web server system with:
+- Load Balancer
+- WordPress Site
+- Separate Database Server
+- GlusterFS Server
+- Management Server
